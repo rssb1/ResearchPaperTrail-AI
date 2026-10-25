@@ -1,4 +1,4 @@
-# ResearchPaperTrail AI Developed by Vibe Coding
+# ResearchPaperTrail AI
 
 A minimal, local research-paper intelligence app: upload PDFs, ask grounded
 questions with page-level citations, and generate a structured comparison
@@ -108,3 +108,7 @@ retrieval accuracy, and the comparison table.
   are always exact — long pages are just split into more chunks.
 - Single embedding/LLM provider (OpenAI) is wired up; swapping providers
   means editing `embeddings.py` / `llm.py`.
+  
+## Development
+
+Built as an AI-assisted coding project, with a focus on learning and applying document processing, embedding-based retrieval, and grounded LLM responses. The application was tested with research-paper questions, source citations, and out-of-scope questions. See MANUAL_TESTING.md for the end-to-end verification checklist.
