@@ -1,4 +1,4 @@
-# ResearchPaperTrail AI
+# ResearchPaperTrail AI Developed by Vibe Coding
 
 A minimal, local research-paper intelligence app: upload PDFs, ask grounded
 questions with page-level citations, and generate a structured comparison
